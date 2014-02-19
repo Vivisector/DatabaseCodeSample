@@ -1,4 +1,4 @@
 DatabaseCodeSample
 ==================
 
-The sample code of Database interaction
+The sample code of Database interaction, with unit tests

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <accounts id ="1" name="Test Account" login="Test login" password_hash="Some hash" account_type_id="1"/>
+    <customers id="2" name="Test customer" is_deleted="0" />
+    <exchanges id="1" customer_id="2" route_id="1" creationdate="${currentDate}" exchange_id="1" />
+    <documents id="1" customer_id="2" exchange_id="1" creationdate="${currentDate}" body="Test doc body" document_version="Test doc version" />
+    <events id="1" customer_id="1" exchange_id="1" document_id="1" creationdate="${currentDate}" message="Test event message" />
+</dataset>
+

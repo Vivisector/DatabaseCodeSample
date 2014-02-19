@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <accounts/>
+    <accounts_customers_mtm/>
+    <archive_documents/>
+    <archive_events/>
+    <archive_exchanges/>
+    <camel_messageprocessed/>
+    <customers/>
+    <documents/>
+    <events/>
+    <exchanges/>
+</dataset>
